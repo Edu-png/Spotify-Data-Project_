@@ -1,5 +1,20 @@
 # Spotify Streaming Insights: Análise e Previsão de Tendências Musicais
 
+<p align="center">
+  <a href="https://github.com/Edu-png">
+    <img src="https://img.shields.io/badge/Autor-Eduardo%20Coqueiro-purple?style=for-the-badge&logo=github" alt="Autor">
+  </a>
+  <a href="mailto:eduardocoqueiro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eduardocoqueiro%40gmail.com-purple?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/eduardocoqueiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Coqueiro-purple?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://kaggle.com/EduardoCoqueiro">
+    <img src="https://img.shields.io/badge/Kaggle-Eduardo%20Coqueiro-blue?style=for-the-badge&logo=kaggle" alt="Kaggle">
+  </a>
+</p>
+
 ![CAPAS - PROJETOS (4)](https://github.com/user-attachments/assets/d0973170-ddf4-4217-9c44-ca945e1f4a53)
 
 ## Sumário 🎯
