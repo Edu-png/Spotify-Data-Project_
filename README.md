@@ -302,7 +302,12 @@ Essas análises demonstram como as características musicais, as preferências d
 - **[Notebook das Previsões com Machine Learning](link_do_notebook_ml)**
 
 ## Agradecimentos 👏
-Agradecimentos especiais ao Spotify por fornecer acesso à sua API e aos desenvolvedores de bibliotecas open-source que tornaram este projeto possível.
+Agradecimentos especiais ao Spotify por fornecer acesso à sua API e aos desenvolvedores de bibliotecas open-source que tornaram este projeto possível e também ao site Kagle por disponibiliza-los! 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/54afb33c-97be-40b6-8c96-0f12852e946f" alt="thank-you" width="500">
+</div>
+
 
 ## Contato 📪
 - **LinkedIn:** [Eduardo Coqueiro](https://www.linkedin.com/in/eduardocoqueiro/)
